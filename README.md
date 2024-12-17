@@ -14,10 +14,12 @@
 -----
 
 <h3 align="left">🔎 Conecta conmigo</h3>
+
 <p align="left">
 <a href="https://twitter.com/ju4ncaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ju4ncaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juancarlos-rr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancarlos-rr" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/1670792" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-256x256-mg2u2fwt.png" alt="htb profile" height="40" width="40" /></a>
+<a href="mailto:jcrr.developer@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚒️ A diario utilizo</h3>
