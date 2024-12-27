@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Juan Carlos Rodríguez (a.k.a. ju4ncaa)</h1>
+<h1 align="center">Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, soy Juan Carlos Rodríguez (a.k.a. ju4ncaa)</h1>
 <div align="center"> <img width="1000px" src="https://i.ibb.co/s6Jrbp7/yo.png"> </div>
 <h3 align="center">Pentester en constante evolución, desafiando la seguridad con cada byte.</h3>
 
