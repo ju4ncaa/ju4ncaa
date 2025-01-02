@@ -5,7 +5,7 @@
 -----
 
 
-- 🔭 Actualmente estoy trabajando en la [Certificación eJPT](https://security.ine.com/certifications/ejpt-certification/)
+- 🔭 Actualmente estoy trabajando en la [Certificación CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
 - 👨‍💻 Todos mis artículos se encuentra en [https://ju4ncaa.github.io/](https://ju4ncaa.github.io/)
 
